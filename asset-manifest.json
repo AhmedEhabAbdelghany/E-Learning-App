@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AhmedEhabAbdelghany/E-Learning-App/static/css/main.6b020a4f.css",
+    "main.js": "/AhmedEhabAbdelghany/E-Learning-App/static/js/main.749b9418.js",
+    "static/js/787.1d63c5d4.chunk.js": "/AhmedEhabAbdelghany/E-Learning-App/static/js/787.1d63c5d4.chunk.js",
+    "static/media/back.webp": "/AhmedEhabAbdelghany/E-Learning-App/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/AhmedEhabAbdelghany/E-Learning-App/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/AhmedEhabAbdelghany/E-Learning-App/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/AhmedEhabAbdelghany/E-Learning-App/index.html",
+    "main.6b020a4f.css.map": "/AhmedEhabAbdelghany/E-Learning-App/static/css/main.6b020a4f.css.map",
+    "main.749b9418.js.map": "/AhmedEhabAbdelghany/E-Learning-App/static/js/main.749b9418.js.map",
+    "787.1d63c5d4.chunk.js.map": "/AhmedEhabAbdelghany/E-Learning-App/static/js/787.1d63c5d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b020a4f.css",
+    "static/js/main.749b9418.js"
+  ]
+}
